@@ -1,6 +1,4 @@
 # Bakery
- 
- <img src="images/screenshot.jpg" alt="project">
 
 Bakery is a mobile first, clean and responsive template built for a bakery.
 
@@ -16,7 +14,7 @@ The project contains three pages which are:
 
 2. About Page - This contains few details about the bakery.
 
-3. Bakers - This page contains a gallery of the bakers.
+3. Menu - This page contains a gallery of the menus.
 
 
-Live Url = https://abdulsamadayoade.github.io/Bakery
+Live Url = https://notcandy001.github.io/Slv-bakers
